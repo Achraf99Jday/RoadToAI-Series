@@ -7,3 +7,4 @@ Form link: https://forms.office.com/Pages/ResponsePage.aspx?id=oBzDhDusrk6tEVGdg
 
 2nd session recording: https://stdntpartners-my.sharepoint.com/:v:/g/personal/abhishek_jaiswal_studentambassadors_com/EbMOdPeETs9MrOji2s2ESbMB81t2T-l-fmczTHJF5dHykQ?e=6NYJkp
 
+#rd session recording: https://stdntpartners-my.sharepoint.com/:v:/g/personal/achraf_jday_studentambassadors_com/ESRnSjobYiRClw0-RsRFxYcBZueH57VPnwsScnXpZG332Q?e=xR4o6d
