@@ -1,5 +1,5 @@
 # RoadToAI-Series
-Repo for the RoadToAI workshop Series, MLSA France and India
+Repo for the RoadToAI workshop Series, MLSA France (Achraf Jday) and India (Abhishek Jaiswal)
 
 1st session recording: https://stdntpartners-my.sharepoint.com/:v:/g/personal/achraf_jday_studentambassadors_com/Ea1vC-1jRiBNr6x2i1e_HngBVwXKWKOCFdHCaV3ru9zrQA?e=7zU60A
 
